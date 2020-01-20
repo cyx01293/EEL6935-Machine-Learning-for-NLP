@@ -1,3 +1,3 @@
 # EEL6935 Machine Learning for NLP
  ------
-Simulating sentimental analysis with Reccurrent Neutral Network, GRU, LSTM.
+EEL-6935: Machine Learning for Natural Language Processing Spring 2019 
